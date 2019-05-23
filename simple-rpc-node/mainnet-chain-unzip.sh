@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #NGD
-wget https://packet.azureedge.net/neochain/mainnet/full/0-2862088/B19AEF69EC98AEAFD531AFD276853262/chain.0.acc.zip
+wget https://packet.azureedge.net/neochain/mainnet/full/0-3787054/f46c5fd892caa4180142b301f850409c/chain.acc.zip
 #unzip -q -d ./ ./chain.acc.zip
 
 #OR
